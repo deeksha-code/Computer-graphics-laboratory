@@ -1,4 +1,4 @@
-Q3.Draw a colour cube home  and spin it using OpenGL transformation matrices.
+Q5.Draw a colour cube home  and spin it using OpenGL transformation matrices.
   
 //program to draw a color cube home and spin it using opengl transformation matrices
 #include<stdio.h>
